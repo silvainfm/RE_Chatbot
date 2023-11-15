@@ -33,5 +33,11 @@ This will allow us to focus on the data, and adding to it until we have ~500 sam
 ## Usage 
 Enter your question about Monaco's real estate law in French in the text input field. The chatbot will process your question and provide a response in French.
 
+## Improvements 
+There are a lot of improvements that we could do, these include actually training a model, and making it conversational. 
+The main improvement that I will focus on before training a model, is to get a lot more data points and make sure that these are accurate for all the potential users. 
+We might have to use a different model, like a new custom GPT, but that would not be cost efficient, for an experimental project.
+The goal with this is to have a chatbot that could be used by lawyers, accountants and real estate professionals alike. 
+
 ## Disclaimer
 This chatbot is intended for informational purposes only and does not substitute for professional legal advice. Reliance on the information provided by the chatbot is solely at the user's risk.

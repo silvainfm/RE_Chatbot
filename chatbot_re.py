@@ -1,5 +1,3 @@
-# let's make a chatbot for our mistral model using streamlit for front end 
-
 # import libraries
 import streamlit as st
 import numpy as np
@@ -13,22 +11,22 @@ import re
 # read in the data re_laws.json
 df = pd.read_json('re_laws.json')
 
-# let's build the front end of our chatbot in french
+# titles
 st.title("Les lois immobilières monégasques")
 st.subheader("Bienvenue! Ceci est un chatbot pour toutes vos questions sur les lois immobilières monégasques.")
 
 # user input
 user_input = st.text_input("Posez votre question ici: ", "")
 
-# let's give some examples of questions
+# examples of questions
 st.write("Exemples de questions: ")
 st.write("Qu'est-ce que la loi 887?")
 st.write("Quelles sont les conditions pour pouvoir louer un appartement sous loi 1235?")
 
-# create a button to submit the question
+# button to submit the question
 submit = st.button('Envoyer')
 
-# create a response function that takes in the user input and returns the response from the model
+# response function that takes in the user input and returns the response from the model
 def response(user_input):
     # load the model from disk
     filename = 'mistral_model.pkl'
@@ -42,7 +40,7 @@ def response(user_input):
     # return the response
     return prediction
 
-# create a function to clean the user input
+# clean the user input
 def clean(user_input):
     # remove all punctuation
     user_input = re.sub(r'[^\w\s]', '', user_input)
@@ -61,7 +59,7 @@ def clean(user_input):
     # return the cleaned user input
     return user_input
 
-# create a function to return the response
+# return the response
 def return_response(user_input):
     # clean the user input
     user_input = clean(user_input)
@@ -70,10 +68,10 @@ def return_response(user_input):
     # return the response
     return prediction
 
-# create a text area to display the response
+# text area to display the response
 st.write("Réponse: ")
 #st.text_area(" ", return_response(user_input))
-# create a function to display the response using string contains
+# display the response using string contains for the moment
 def return_response(user_input):
     # clean the user input
     user_input = clean(user_input)
@@ -86,10 +84,10 @@ def return_response(user_input):
 
 st.text_area(" ", return_response(user_input))
 
-# create a button to erase the question and response so the user can ask another question
+# button to erase the question and response so the user can ask another question
 erase = st.button('Effacer')
 
-# create a function to erase the question and response
+# erase the question and response
 def erase(user_input):
     # erase the question and response
     user_input = ''

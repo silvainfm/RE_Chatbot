@@ -46,13 +46,15 @@ This will allow us to focus on the data, and adding to it until we have ~500 sam
 * Transformers library by Hugging Face
 * PyTorch
 
-## Code
+## Code webscraping and model training
 
 We did some web scraping using the following [code][https://github.com/silvainfm/RE_Chatbot/blob/main/extract_laws.py]
 And here are the 2 notebooks used for the potential training of [BERTDistil][https://github.com/silvainfm/RE_Chatbot/blob/main/BertD_try.ipynb] and [Mistral][https://github.com/silvainfm/RE_Chatbot/blob/main/mistral_chatbot_RE.ipynb]
 
 ## Running the app
 `streamlit run app.py`
+
+[App code][https://github.com/silvainfm/RE_Chatbot/blob/main/chatbot_re.py]
 
 ## Usage 
 Enter your question about Monaco's real estate law in French in the text input field. The chatbot will process your question and provide a response in French.

@@ -1,0 +1,66 @@
+[
+    {
+        "input": "Quels sont les nouveaux taux de droits d'enregistrement pour les mutations immobilières à Monaco?",
+        "output": "Le taux pour les entités \"transparentes\" est passé de 4,5 % à 4,75%. Pour les entités \"non transparentes\", il a augmenté de 7,5 % à 10%."
+    },
+    {
+        "input": "Comment améliorer la gestion locative d’un bien en cas d’impayés?",
+        "output": "Il est recommandé de mettre en œuvre une stratégie d’anticipation pour la libération des lieux et le recouvrement de l’impayé locatif adaptée à chaque cas."
+    },
+    {
+        "input": "Quelles sont les nouvelles mesures introduites par la loi n° 1.531 pour les copropriétés à Monaco?",
+        "output": "La loi apporte des solutions pour les petites copropriétés, assouplit les règles de majorité pour certains travaux, et avance vers la digitalisation de l’administration des copropriétés."
+    },
+    {
+        "input": "Quelles sont les conséquences d’une offre d’achat ou de vente immobilière non exécutée à Monaco?",
+        "output": "Si l’offre est acceptée et non exécutée, la partie lésée peut exiger l’exécution forcée ou des dommages et intérêts. Une clause de dédit peut permettre de revenir sur la parole donnée."
+    },
+    {
+        "input": "Quelles sont les nouvelles contraintes pour les projets de démolition-reconstruction dans le secteur protégé à Monaco?",
+        "output": "La loi n°1.508 impose la cession d’appartements à l’État, la réalisation de travaux dans un délai, et une majoration du volume constructible sous certaines conditions."
+    },
+    {
+        "input": "Quelles mesures incitatives et réglementaires concernent les acteurs de l’immobilier pour la transition énergétique à Monaco?",
+        "output": "Il y a des mesures incitatives pour le développement des énergies renouvelables et des mesures contraignantes pour la gestion des bâtiments, y compris des normes énergétiques pour les constructions neuves."
+    },
+    {
+        "input": "Comment la loi en 2022 va-t-elle impacter les marchands de biens à Monaco?",
+        "output": "Ils devront payer des droits d'enregistrement partiels, réaliser des travaux de rénovation significatifs, faire appel à des entreprises locales, et respecter un montant minimum de travaux de rénovation."
+    },
+    {
+        "input": "Quelles sont les règles applicables à l’immobilier locatif à Monaco?",
+        "output": "Il existe trois cadres : le Secteur Libre sans loyers protégés, la Loi n. 887 principalement pour les immeubles avant 1947, et la Loi n. 1291/1235 pour le secteur protégé avec des loyers contrôlés."
+    },
+    {
+        "input": "Qu’est-ce que la loi 887 à Monaco?",
+        "output": "La loi 887 stipule que les appartements concernés ne peuvent être loués que pour une période minimale de six ans à des locataires spécifiques, sans régulation sur le montant du loyer."
+    },
+    {
+        "input": "Qui peut louer un bien soumis à la loi 887 à Monaco?",
+        "output": "Les appartements soumis à la loi 887 ne peuvent être loués qu’à des locataires monégasques, ceux domiciliés ou travaillant à Monaco depuis plus de cinq ans, ou aux membres de la famille proche du propriétaire."
+    },
+    {
+        "input": "Quel est le rôle social des lois n°1235, 1291 et 887 en Principauté?",
+        "output": "Ces lois visent à protéger les droits des locataires dans les immeubles anciens, offrant une protection sociale pour les Monégasques et les résidents de longue date."
+    },
+    {
+        "input": "Quels sont les changements apportés par la loi n° 1.514 en ce qui concerne le contrat \"habitation-capitalisation\"?",
+        "output": "La loi n° 1.514 modifie les conditions des contrats \"habitation-capitalisation\" en excluant certains logements, en ajustant les critères pour la surface habitable, et en modifiant les conditions de paiement et les situations de diminution de revenus."
+    },
+    {
+        "input": "Comment la proposition de loi n° 252 affecte-t-elle les marchands de biens à Monaco?",
+        "output": "Elle réglemente la profession en exigeant une garantie financière, une assurance responsabilité civile, et modifie le régime fiscal pour encourager les travaux de rénovation significatifs."
+    },
+    {
+        "input": "Quel est le rôle social des lois n°1235, 1291 et 887 à Monaco?",
+        "output": "Ces lois régulent le secteur de l’habitation pour protéger les Monégasques et les résidents de longue date, avec des contrats de location offrant une meilleure protection du locataire."
+    },
+    {
+        "input": "Quelles sont les modifications apportées par la loi n° 1.514 à la loi n° 1.357 concernant le contrat \"habitation-capitalisation\"?",
+        "output": "La loi n° 1.514 modifie les conditions applicables aux contrats \"habitation-capitalisation\", notamment en ce qui concerne la surface habitable, les bénéficiaires en cas de décès, et les conditions financières en cas de diminution importante des revenus."
+    },
+    {
+        "input": "Quelles sont les nouvelles réglementations pour les marchands de biens à Monaco selon la proposition de loi n° 252?",
+        "output": "La proposition de loi n° 252 vise à réglementer la profession de marchand de biens, renforcer les conditions d’accès, et refondre le régime fiscal pour encourager des améliorations substantielles aux biens immobiliers."
+    }
+]

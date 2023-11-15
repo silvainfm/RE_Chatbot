@@ -2,11 +2,18 @@
 
 ## Overview
 
-This chatbot provides information and answers questions related to real estate laws in Monaco. It is designed to assist users in French. The bot is built using a fine-tuned language model and is deployed through a Streamlit application for easy interaction.
-A lot of foreigners move to Monaco every year. Most of them are unfamiliar with local laws, and how to become a resident. 
+This chatbot provides information and answers questions related to real estate laws in Monaco. 
+* designed to assist users in French. The bot is built using a fine-tuned language model and is deployed through a Streamlit application for easy interaction.
+
+### WHY?
+* A lot of foreigners move to Monaco every year.
+* Most of them are unfamiliar with local laws, and how to become a resident. 
+
 They usually come to real estate companies, or accounting firms for advice on how to set up their business and the steps to become a resident. 
-Monaco is quite unusual as it has many different real estate and residency laws that are specific to the country, despite its very small size. 
-Our aim with this project is to provide a resource for these foreigners to be better informed, and make the whole process less daunting. Our chatbot can, and will also be used by professionals in real estate/accounting to keep them informed. 
+
+* Monaco is quite unusual as it has many different real estate and residency laws that are specific to the country, despite its very small size. 
+* Our aim with this project is to provide a resource for these foreigners to be better informed, and make the whole process less daunting.
+* Our chatbot can, and will also be used by professionals in real estate/accounting to keep them informed. 
 
 ## Data
 

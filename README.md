@@ -3,7 +3,9 @@
 ## Overview
 
 This chatbot provides information and answers questions related to real estate laws in Monaco. 
-* designed to assist users in French. The bot is built using a fine-tuned language model and is deployed through a Streamlit application for easy interaction.
+* Designed to assist users in French.
+* Will bebuilt using Mistral
+* Deployed through a Streamlit application for easy interaction.
 
 ### WHY?
 * A lot of foreigners move to Monaco every year.
@@ -17,8 +19,19 @@ They usually come to real estate companies, or accounting firms for advice on ho
 
 ## Data
 
-Our data for the model had to be structured as input, output at first. For a few reasons we have kept the datasize small, mainly this make the process less hardware intensive, and we are not subject matter expert and will require more input to make the model more accurate. 
-We scraped the data from various websites. These are the government website, several real estate firms' websites, and the "monaco laws bible". The mian challenge here was to split data from one source into the smaller sized chunks that still conatined all the information we needed the model to know. Law texts are long, tedious and often include language that is not necessary in our application. This is where we can use a subject matter expert's opinion and guidance. 
+Our data for the model had to be structured as input, output at first. 
+For a few reasons we have kept the datasize small:
+* mainly this make the process less hardware intensive
+* we are not subject matter expert
+* and we will require more input to make the model more accurate.
+
+We scraped the data from various websites. These are:
+* government website
+* several real estate firms' websites
+* the "monaco laws bible"
+* the journal of Monaco where all new laws are published
+
+The main challenge here was to split data from one source into the smaller sized chunks that still contained all the information we needed the model to know. Law texts are long, tedious and often include language that is  unnecessary in our application. This is where we can use a subject matter expert's opinion and guidance. 
 We made use of chat gpt to structure our data properly and prepare it for the model. We then split it into test and training sets. 
 
 ## Model Used 

@@ -33,6 +33,10 @@ This will allow us to focus on the data, and adding to it until we have ~500 sam
 * Transformers library by Hugging Face
 * PyTorch
 
+## Code
+
+We did some web scraping using the following [code][https://github.com/silvainfm/RE_Chatbot/blob/main/extract_laws.py]
+And here are the 2 notebooks used for the potential training of [BERTDistil][https://github.com/silvainfm/RE_Chatbot/blob/main/BertD_try.ipynb] and [Mistral][https://github.com/silvainfm/RE_Chatbot/blob/main/mistral_chatbot_RE.ipynb]
 
 ## Running the app
 `streamlit run app.py`

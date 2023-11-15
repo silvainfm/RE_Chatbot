@@ -70,3 +70,8 @@ The goal with this is to have a chatbot that could be used by lawyers, accountan
 
 ## Disclaimer
 This chatbot is intended for informational purposes only and does not substitute for professional legal advice. Reliance on the information provided by the chatbot is solely at the user's risk.
+
+## Resources
+https://www.youtube.com/watch?v=kmkcNVvEz-k&t=1s
+https://huggingface.co/mistralai/Mistral-7B-v0.1
+See urls in this [code](https://github.com/silvainfm/RE_Chatbot/blob/main/extract_laws.py)

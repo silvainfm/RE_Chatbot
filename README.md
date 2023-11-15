@@ -15,7 +15,9 @@ They usually come to real estate companies, or accounting firms for advice on ho
 
 * Monaco is quite unusual as it has many different real estate and residency laws that are specific to the country, despite its very small size. 
 * Our aim with this project is to provide a resource for these foreigners to be better informed, and make the whole process less daunting.
-* Our chatbot can, and will also be used by professionals in real estate/accounting to keep them informed. 
+* Our chatbot can, and will also be used by professionals in real estate/accounting to keep them informed.
+* Laws in any country are long and can be shortened to a few paragraphs (example of section 179).
+* A basic case for the chatbot would be to guide the user to the right law. 
 
 ## Data
 
